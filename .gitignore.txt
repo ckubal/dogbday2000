@@ -1,0 +1,1 @@
+# Python cache files__pycache__/*.pyc*.pyo*.pyd# Virtual environment (if you ever use one, good practice to add)venv/env/*.venv# Operating System files.DS_StoreThumbs.db# IDE / Editor specific files (examples).vscode/.idea/# Secrets file (if you ever add one)# .env
